@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How should DDR bus routing be handled to meet strict timing requirements?", "answer": "Length-match address, control, and data signals separately with symmetric routing and serpentine length compensation."}

@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "In space-constrained 4-layer DDR3 PCBs, how to manage timing and via-related interference?", "answer": "Place address/control on inner layers, use blind vias for delay control, and add ground vias during layer transitions for continuity."}

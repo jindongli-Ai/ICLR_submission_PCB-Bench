@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "What should be considered when placing power devices?", "answer": "They should be placed near the load and minimize the current loop path."}
+{"id": "qa_1", "question": "In layout, what types of modules should antennas be kept away from?", "answer": "They should be kept away from high-speed digital circuits, power converters, and large metal areas."}

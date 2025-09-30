@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How to control signal reflections in bidirectional high-speed communication?", "answer": "Add termination resistors, maintain consistent impedance, and minimize stubs and vias."}

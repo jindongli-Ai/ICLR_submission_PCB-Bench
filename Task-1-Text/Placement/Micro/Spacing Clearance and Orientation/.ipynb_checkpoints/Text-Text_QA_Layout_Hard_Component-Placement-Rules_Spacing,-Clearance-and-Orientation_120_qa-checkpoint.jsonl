@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "How to prevent signal back-injection in RF front-ends with LNA and PA coexisting?", "answer": "Use isolation networks, physically separate LNA and PA, and filter LNA power with RC circuits."}
+{"id": "qa_1", "question": "In motor drivers with inductive energy recovery, how to layout flyback paths and drivers for efficiency?", "answer": "Place flyback diodes near power FETs, minimize loop area, and use multipoint ground sensing to report voltage drop."}

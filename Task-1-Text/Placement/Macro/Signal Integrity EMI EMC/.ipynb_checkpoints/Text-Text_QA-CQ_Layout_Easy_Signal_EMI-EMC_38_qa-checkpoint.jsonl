@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How should the crystal oscillator be placed to reduce interference and improve stability?", "answer": "It should be placed as close as possible to the crystal pins of the chip and away from high-speed traces."}

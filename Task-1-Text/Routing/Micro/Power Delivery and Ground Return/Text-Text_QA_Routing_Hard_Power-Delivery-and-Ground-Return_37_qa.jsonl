@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How to ensure return path continuity when signals change layers in a 12+ layer PCB?", "answer": "Use stitching ground vias near via transitions, insert ground planes between signal layers, and close return loops."}

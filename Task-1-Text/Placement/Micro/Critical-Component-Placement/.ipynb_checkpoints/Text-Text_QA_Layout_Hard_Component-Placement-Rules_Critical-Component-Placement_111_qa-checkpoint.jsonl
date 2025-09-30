@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "How to place input buffers in a high-speed ADC array to reduce inter-channel nonlinearity?", "answer": "Use symmetrical placement, matched impedance, and short direct routing to sampling circuits."}
+{"id": "qa_1", "question": "How to place reference crystal and antenna input in GNSS receivers for better acquisition?", "answer": "Place crystal close to LNA, use short shielded lines for antenna input."}

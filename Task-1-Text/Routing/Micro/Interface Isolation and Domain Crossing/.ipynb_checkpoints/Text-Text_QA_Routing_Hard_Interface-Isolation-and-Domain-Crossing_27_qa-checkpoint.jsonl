@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How to layout isolated signal paths in control systems?", "answer": "Place isolation and control sides in separate zones, and route crossing signals short with isolation ICs."}

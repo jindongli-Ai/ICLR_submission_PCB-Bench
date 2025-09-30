@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "How to minimize analog ground potential fluctuation in control boards with asymmetric power distribution?", "answer": "Use single-point analog ground referencing, isolate high-current paths with ground partitioning, and apply Kelvin connections for low-impedance referencing."}
+{"id": "qa_1", "question": "How to place reference grounds for multiple power domains in distributed grounding systems?", "answer": "Use star topology or ferrite bead coupling, and avoid forming closed-loop ground currents."}

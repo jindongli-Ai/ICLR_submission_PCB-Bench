@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "In EV designs, how should HV power modules be co-located with low-voltage logic circuits?", "answer": "Partition HV and LV zones clearly, and isolate interference paths using shielding and digital isolators."}
+{"id": "qa_1", "question": "How to optimize antenna feed paths in 5G mmWave front-end modules?", "answer": "Keep feedlines as short as possible with matched impedance, and avoid metal trace bends that cause phase mismatch."}

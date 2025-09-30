@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "In isolated DC-DC designs with inductive isolation, how to place switching nodes and shielding?", "answer": "Place switching nodes between MOSFET and inductor, shield control and isolation sides separately to prevent field overlap."}
+{"id": "qa_1", "question": "How should 100BASE-T1 Ethernet routing be handled for automotive EMC compliance?", "answer": "Use shielded differential pairs with controlled common-mode impedance and ground reference routing for return path construction."}

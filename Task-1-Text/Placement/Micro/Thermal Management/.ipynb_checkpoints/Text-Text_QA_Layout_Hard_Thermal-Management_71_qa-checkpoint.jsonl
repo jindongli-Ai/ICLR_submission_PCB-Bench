@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "In high-reliability military comm boards, how to place redundant channels for EMC and thermal robustness?", "answer": "Physically isolate main/backup paths, place symmetrically near heat sources, and prevent common-mode coupling."}
+{"id": "qa_1", "question": "How to manage thermal coupling in current-controlled high-frequency power amplifier layouts?", "answer": "Place temp sensors symmetrically, use dedicated copper for heat conduction, and ensure airflow."}

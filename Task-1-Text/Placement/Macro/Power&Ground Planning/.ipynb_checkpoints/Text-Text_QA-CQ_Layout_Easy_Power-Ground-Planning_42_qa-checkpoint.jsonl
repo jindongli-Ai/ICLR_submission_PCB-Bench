@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "Why should decoupling capacitors be placed close to the IC power pins?", "answer": "To effectively filter power noise and provide immediate current response."}
+{"id": "qa_1", "question": "What should be considered when placing the power input port?", "answer": "It should be near the board edge with enough copper area to carry current."}

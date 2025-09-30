@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How to ensure synchronized routing for all sampling signals in a multi-channel ADC system?", "answer": "Use length-matched and symmetric routing paths, avoiding transitions across different reference planes."}

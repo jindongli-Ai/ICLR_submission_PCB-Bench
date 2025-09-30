@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "How to route high-speed breakout signals in dense BGA regions?", "answer": "Use staggered routing and blind/buried vias, prefer inner layer breakout for signal integrity."}
+{"id": "qa_1", "question": "How to prevent stub structures from affecting high-speed signal quality?", "answer": "Avoid T-branch stubs and use back drilling to remove via stubs."}

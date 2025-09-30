@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "How to control skew within limits when routing high-speed SerDes interfaces like PCIe Gen3?", "answer": "Use length-matching with delay structures such as serpentine routing or stub voiding, and compensate for via-induced delays."}
+{"id": "qa_1", "question": "How to prevent impedance discontinuity and broken return paths during reference layer switching in high-speed routing?", "answer": "Add stitching vias at transitions and maintain continuous ground reference layers to ensure return path integrity and impedance continuity."}

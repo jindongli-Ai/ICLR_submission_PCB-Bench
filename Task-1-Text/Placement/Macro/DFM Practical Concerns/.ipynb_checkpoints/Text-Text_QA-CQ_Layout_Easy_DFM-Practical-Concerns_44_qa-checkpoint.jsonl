@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "Can components be placed underneath a BGA package?", "answer": "It is not recommended to place components there to avoid soldering issues and signal blockage."}
+{"id": "qa_1", "question": "Where should thermistors be placed on a PCB?", "answer": "They should be placed near the heat source and away from airflow disturbances."}

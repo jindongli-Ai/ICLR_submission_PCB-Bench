@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "How to avoid crosstalk between high-speed signals in dense areas?", "answer": "Insert ground traces or via fences, increase spacing, and route traces orthogonally across layers."}
+{"id": "qa_1", "question": "How to control crosstalk among multiple high-speed interfaces on a PCB?", "answer": "Increase spacing, insert ground via fences, and ensure continuous reference planes for each channel."}

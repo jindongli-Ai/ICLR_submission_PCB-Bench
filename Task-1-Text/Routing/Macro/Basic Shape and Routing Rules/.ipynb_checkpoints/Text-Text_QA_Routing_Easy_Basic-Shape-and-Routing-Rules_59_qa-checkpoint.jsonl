@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "What principle should be followed when routing between two points?", "answer": "Keep the trace as short and direct as possible to improve signal integrity."}
+{"id": "qa_1", "question": "How should clock signals be routed?", "answer": "Use short and direct routing, avoid noise sources, and add termination resistors if needed."}

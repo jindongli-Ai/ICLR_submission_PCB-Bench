@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How should the lengths of differential pair traces be handled?", "answer": "They should be length-matched to ensure timing and signal synchronization."}

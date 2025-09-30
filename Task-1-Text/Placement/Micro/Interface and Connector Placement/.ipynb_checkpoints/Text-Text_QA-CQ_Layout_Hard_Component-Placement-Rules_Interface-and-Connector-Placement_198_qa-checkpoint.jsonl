@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "How to optimize termination and return path for multi-rate MIPI D-PHY receivers?", "answer": "Place termination resistors near the receiver and add symmetric ground vias to form a continuous return path."}
+{"id": "qa_1", "question": "How to lay out CAN and LIN interfaces in automotive controllers?", "answer": "Place CAN and LIN in separate zones, each with its own protection and filtering circuits, and isolate return paths."}

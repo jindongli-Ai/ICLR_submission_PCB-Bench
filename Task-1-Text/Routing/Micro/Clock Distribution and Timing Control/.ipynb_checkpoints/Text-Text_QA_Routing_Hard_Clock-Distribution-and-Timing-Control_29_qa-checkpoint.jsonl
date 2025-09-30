@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How to route high-speed clocks in dynamically reconfigurable FPGA designs?", "answer": "Use matched-length routing, avoid crossing split power planes, and isolate from noise sources."}

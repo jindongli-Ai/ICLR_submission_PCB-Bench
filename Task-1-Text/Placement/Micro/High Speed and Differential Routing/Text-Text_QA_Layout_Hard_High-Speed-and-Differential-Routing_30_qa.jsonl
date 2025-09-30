@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How to route multiple synchronous ADC sampling channels to minimize phase error?", "answer": "Control trace lengths strictly, use symmetrical routing, and avoid asynchronous control signal interference."}

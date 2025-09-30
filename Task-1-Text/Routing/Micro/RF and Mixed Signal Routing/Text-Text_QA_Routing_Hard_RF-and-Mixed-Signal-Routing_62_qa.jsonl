@@ -1,0 +1,2 @@
+{"id": "qa_0", "question": "How to prevent radiated interference in mmWave signal routing?", "answer": "Use microstrip or stripline structures, maintain precise impedance, and shield with continuous ground reference."}
+{"id": "qa_1", "question": "Can RF signal paths cross power reference planes?", "answer": "Not recommended; RF signals should only cross ground planes to avoid unstable return currents."}

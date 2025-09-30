@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "In multi-FPGA systems, how to arrange global and local clocks to balance signal integrity and delay?", "answer": "Use tree-based global clock routing with phase compensation, and place local clocks near usage points with fan-out buffers."}

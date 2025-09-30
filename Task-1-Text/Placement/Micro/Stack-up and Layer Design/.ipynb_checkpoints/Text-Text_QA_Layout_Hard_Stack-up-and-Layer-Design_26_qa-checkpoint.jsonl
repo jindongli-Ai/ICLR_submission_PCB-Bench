@@ -1,0 +1,1 @@
+{"id": "qa_0", "question": "How to achieve routing symmetry for differential antenna paths requiring ±0.5dB gain match?", "answer": "Use mirrored layout and traces, ensuring identical routing paths, electrical lengths, and surrounding environment."}
